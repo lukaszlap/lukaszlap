@@ -1,6 +1,9 @@
 👋 Hi, I’m @lukaszlap
+
 👀 I’m interested in multimodal languages and creating applications using language models both locally and through APIs such as OpenAI, Gemini, and Claude. I also work with local models from Hugging Face.
+
 🌱 I’m currently learning about data processing and automation of processes.
+
 💞️ I’m looking to collaborate on projects involving Python, C#, web development (HTML, CSS, JS, Bootstrap, PHP, Flask), and database integration (e.g., MySQL).
 📫 How to reach me: Feel free to reach out via my GitHub profile.
 😄 Pronouns: He/Him
